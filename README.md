@@ -1,6 +1,6 @@
 rm -rf File-Cloning
 
-git clone https://github.com/sadim-king/File-Cloning
+git clone https://github.com/SADIM-143/File-Cloning
 
 cd File-Cloning
 
